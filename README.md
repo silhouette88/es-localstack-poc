@@ -7,3 +7,8 @@
 The reason we use both is because localstack only exposes the endpoints that the
 [AWS ES Service](https://aws.amazon.com/elasticsearch-service/) accepts, but it's
 not really a fully functioning elasticsearch cluster.
+
+### Resources
+
+- [Using localstack with other containers](https://medium.com/@swade1987/localstack-and-two-other-containers-43ac04162b85)
+- [Localstack Readme](https://github.com/localstack/localstack#overview)
